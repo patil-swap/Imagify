@@ -13,7 +13,6 @@ import profile_img_2 from './profile_img_2.png'
 import react from './react.svg'
 import sample_img_1 from './sample_img_1.png'
 import sample_img_2 from './sample_img_2.png'
-import sample_img_3 from './sample_img_3.png'
 import star_group from './star_group.png'
 import star_icon from './star_icon.svg'
 import step_icon_1 from './step_icon_1.svg'
@@ -37,7 +36,6 @@ export const assets = {
 	react,
 	sample_img_1,
 	sample_img_2,
-	sample_img_3,
 	star_group,
 	star_icon,
 	step_icon_1,
